@@ -1,0 +1,11 @@
+# Ignore artifacts:
+node_modules/
+jspm_packages/
+.next/
+query/
+# Distribution directories
+dist/
+next.config.js
+lint-staged.config.js
+.eslintrc.json
+.prettierrc.json

@@ -1,0 +1,8 @@
+node_modules/
+/node_modules/*
+jspm_packages/
+.history/
+.next/
+next.config.js
+lint-staged.config.js
+**/*.json
